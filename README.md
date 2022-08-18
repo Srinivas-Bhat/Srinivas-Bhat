@@ -71,6 +71,7 @@
 <br />
 <br/>
 
+<h2>:chart_with_upwards_trend: Streak</h2>
 
 <a style="margin:auto">&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-bhat&show_icons=true&count_private=true&theme=react&border=1pxsolid#eeeeee&bg_color=0D1117" alt="srinivas-bhat" width="650px" height="250px" />
