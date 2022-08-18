@@ -30,7 +30,7 @@
 
 <br/>
 
-<h3>Resume:</h3>
+<h3> :spiral_notepad: Resume:</h3>
 <p>Know me more through my<strong><a href="https://drive.google.com/file/d/1y_BeIKdduI2N9E9pBwjsLf6m3y8RQefj/view?usp=sharing](https://drive.google.com/file/d/1y_BeIKdduI2N9E9pBwjsLf6m3y8RQefj/view?usp=sharing" target="_blank"> Resume</a></strong></p>
 
 <br/>
@@ -79,6 +79,8 @@
 <br/>
 <br/>
 <br/>
+
+<h2> :bar_chart: My Stats</h2>
 
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=srinivas-bhat&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="srinivas-bhat" width="450px" /></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-bhat&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="srinivas-bhat" />
