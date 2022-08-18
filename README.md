@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srinivas K Bhat</h1>
-<h3 align="center">A passionate Full-Stack Web developer from India</h3>
+<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
 
+<br/>
 
 <img align="center" alt="coding" width="500px" style="display:flex;justify-content:center;align-items:center"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <br/>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivas-bhat" alt="srinivas-bhat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 
 <h3> 🙋‍♂️ About Me </h3>
@@ -26,10 +20,6 @@
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**
 
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y_BeIKdduI2N9E9pBwjsLf6m3y8RQefj/view?usp=sharing](https://drive.google.com/file/d/1y_BeIKdduI2N9E9pBwjsLf6m3y8RQefj/view?usp=sharing)
-
 <br/>
 
 
@@ -37,6 +27,23 @@
 <p align="left">
 <a href="https://linkedin.com/in/srinivas k bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas k bhat" height="30" width="40" /></a>
 </p>
+
+<br/>
+
+<h3>Resume:</h3>
+<p>Know me more through my<strong><a href="https://drive.google.com/file/d/1y_BeIKdduI2N9E9pBwjsLf6m3y8RQefj/view?usp=sharing](https://drive.google.com/file/d/1y_BeIKdduI2N9E9pBwjsLf6m3y8RQefj/view?usp=sharing" target="_blank"> Resume</a></strong></p>
+
+<br/>
+<br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivas-bhat" alt="srinivas-bhat" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<br/>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -54,6 +61,8 @@
 <br/>
 <br/>
 <br/>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-bhat&show_icons=true&locale=en&layout=compact" alt="srinivas-bhat" /></p>
 
 
