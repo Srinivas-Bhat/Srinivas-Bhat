@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas K Bhat</h1>
-<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
+<h3 align="left">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
 
 <br/>
 
@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="left" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="left" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="left" alt="material-ui"/>
-<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left" alt="tailwindcss">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="left" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="left" alt="mongodb"/>
