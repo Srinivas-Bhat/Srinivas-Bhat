@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas K Bhat</h1>
-<h3 align="left">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
+<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
 
 <br/>
 
