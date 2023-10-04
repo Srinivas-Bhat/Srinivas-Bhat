@@ -9,6 +9,7 @@
 
 
 <h3> 🙋‍♂️ About Me </h3>
+
 - 🌱 Worked at TrustCheckr as Full Stack Web Developer.
 
 - 🌱 Completed **Full Stack Web Development course** at **Masai School**
