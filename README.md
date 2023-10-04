@@ -3,14 +3,15 @@
 
 <br/>
 
-<img align="center" alt="coding" width="500px" style="display:flex;justify-content:center;align-items:center"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="center" alt="coding" width="500px" style="display:flex;justify-content:center;align-items:center"  src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
 
 <br/>
 
 
 <h3> 🙋‍♂️ About Me </h3>
+- 🌱 Worked at TrustCheckr as Full Stack Web Developer.
 
-- 🌱 I’m currently learning **Full Stack Web Development course** at **Masai School**
+- 🌱 Completed **Full Stack Web Development course** at **Masai School**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express**
 
