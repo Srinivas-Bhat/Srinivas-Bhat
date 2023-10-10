@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **srinivasbhat0105@gmail.com**
 
-- 🔭 Visit my <a target="_blank" href="https://srinivaskbhat-portfolio.netlify.app/"><strong>portfolio</strong></a>
+- 🔭 Visit my <a target="_blank" href="https://srinivas-bhat-portfolio.netlify.app"><strong>portfolio</strong></a>
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**
 
