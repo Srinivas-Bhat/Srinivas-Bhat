@@ -3,9 +3,9 @@
 
 <br/>
 
-<center>
-<img align="center" alt="coding" width="500px" style="display:flex;justify-content:center;align-items:center"  src="https://camo.githubusercontent.com/f13afb3465b1a7498f375b40b17ed882fdfbfa7c74b3a10aac36d9688ea178a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
-</center>
+<div style="display: flex; align-items: center; justify-content: center">
+<img align="center" alt="coding" width="500px" style="display:flex;align-items:center"  src="https://camo.githubusercontent.com/f13afb3465b1a7498f375b40b17ed882fdfbfa7c74b3a10aac36d9688ea178a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
+</div>
 
 <br/>
 
