@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**
 
-- **Interests** - LongDrives, Painting, Reading, Trekking.
+- **Interests** - Long-rides, Drawing, Reading, Trekking.
 
 <br/>
 
