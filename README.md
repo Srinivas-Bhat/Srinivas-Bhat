@@ -16,11 +16,11 @@
 
 - 🌱 Completed **Full Stack Web Development course** at **Masai School**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express, Material UI**
 
 - 📫 How to reach me **srinivasbhat0105@gmail.com**
 
-- 🔭 Visit my <a target="_blank" href="https://srinivas-k-bhat-portfolio.vercel.app/"><strong>portfolio</strong></a>
+- 🔭 Visit my <a target="_blank" href="https://srinivas-k-bhat-portfolio.vercel.app/"><strong>portfolio</strong></a> website
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**
 
