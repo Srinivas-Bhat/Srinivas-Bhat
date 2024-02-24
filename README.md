@@ -14,7 +14,7 @@
 
 - 🌱 Worked at **TrustCheckr** as **Full Stack Web Developer**.
 
-- 🌱 Completed **Full Stack Web Development course** at **Masai School**
+- 🌱 Completed **Full Stack Web Development course** at **Masai School**.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express**
 
