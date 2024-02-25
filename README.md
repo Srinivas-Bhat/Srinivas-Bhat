@@ -37,7 +37,7 @@
 <br/>
 
 <h3> :spiral_notepad: Resume: </h3>
-<p>Know me more through my<strong><a href="https://drive.google.com/file/d/1fyaFm4acCbt0_slLqFECGoAmWODHR0pA/view?usp=sharing" target="_blank"> Resume</a></strong></p>
+<p>Know me more through my<strong><a href="https://drive.google.com/file/d/1YjvKamKJBjpwPbznvJr52uFRiR_n8qyj/view" target="_blank"> Resume</a></strong></p>
 
 <br/>
 <br/>
