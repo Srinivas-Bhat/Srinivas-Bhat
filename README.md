@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express, Material UI**.
 
-- 📫 How to reach me **srinivasbhat0105@gmail.com**
+- 📫 How to reach me **srinivasbhat0105@gmail.com**.
 
 - 🔭 Visit my <a target="_blank" href="https://srinivas-k-bhat-portfolio.vercel.app/"><strong>portfolio</strong></a> website
 
