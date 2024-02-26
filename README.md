@@ -16,7 +16,7 @@
 
 - 🌱 Completed **Full Stack Web Development course** at **Masai School**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express, Material UI**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express, Material UI**.
 
 - 📫 How to reach me **srinivasbhat0105@gmail.com**
 
@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**.
 
-- **Interests** - Long-rides, Drawing, Reading, Trekking.
+- **Interests** - Long-rides, Drawing, Trekking.
 
 <br/>
 
