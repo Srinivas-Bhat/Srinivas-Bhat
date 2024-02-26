@@ -22,7 +22,7 @@
 
 - 🔭 Visit my <a target="_blank" href="https://srinivas-k-bhat-portfolio.vercel.app/"><strong>portfolio</strong></a> website
 
-- ⚡ Fun fact **I love to read and enjoy going on road trips**.
+- ⚡ Fun fact **I love to visit new places and enjoy long rides**.
 
 - **Interests** - Long-rides, Drawing, Trekking.
 
