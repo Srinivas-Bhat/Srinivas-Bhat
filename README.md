@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I love to visit new places and enjoy long rides**.
 
-- **Interests** - Long-rides, Drawing, Trekking.
+- **Interests** - Drawing, Long-rides, Trekking.
 
 <br/>
 
